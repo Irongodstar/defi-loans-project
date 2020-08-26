@@ -19,7 +19,7 @@ Founded in  2/2020 by David Smith,We has come a long way from its beginnings in 
 ### Smart Contract Code ( SC Folder)
 - ERC20
 - TRC20
-### Source Code ( SOURCE Folder )
+### Source Code ( Source Folder )
 - PHP
 - NODEJS
 - PYTHON
