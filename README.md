@@ -21,5 +21,6 @@ Founded in  2/2020 by David Smith,We has come a long way from its beginnings in 
 - TRC20
 ### Source Code ( Source Folder )
 - PHP
-- NODEJS
-- PYTHON
+- NodeJS
+- Python
+### Loan Policy ( Loans Folder )
