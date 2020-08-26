@@ -1,4 +1,5 @@
 # Defi Loans Project
+![alt](https://defi-loans.org/logo/favicon.png)
 - Information
     + LOGO : https://defi-loans.org/logo/favicon.png
     + WEBSITE : https://defi-loans.org/
