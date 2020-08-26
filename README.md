@@ -2,7 +2,8 @@
 ![alt](https://defi-loans.org/logo/favicon.png)
 ### About
 We're dedicated to giving you the very best of Defi, with a focus on dependability, customer service and uniqueness.
-Founded in  2/2020 by David Smith,We has come a long way from its beginnings in a office. We work with numerous enterprise technologies to provide highly efficient, customized, scalable and integrated solutions to digitally transform your business.To build successful software and web applications you need a development team who understands your business needs. Our Platinum experts will offer you an amazing experience that will take you and your company to the next level.
+Founded on 2/2020 by David Smith. We have come a long way from our inception. We work with various enterprise technologies to develop defiloans project , we aim to build a leading defiloans system in the DeFi ecosystem. Our experts will bring you a great experience.
+Sincerely, David Smith, CEO, Founder, DefiLoans.
 ### Information
 - LOGO : https://defi-loans.org/logo/favicon.png
 - WEBSITE : https://defi-loans.org/
